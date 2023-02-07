@@ -15,11 +15,11 @@ Clean the data and make a nice plot.
 
 * Create a new environment and install the requirements, e.g.
 
-    conda create -n test python=3.11
+    `conda create -n test python=3.11`
     
 * Install the requirements and jupyterlab.
 
-    pip install -r requirements.txt
-    conda install jupyterlab
+    `pip install -r requirements.txt`
+    `conda install jupyterlab`
     
 * Open gapminder.ipynb in jupyterlab to see a solution.
